@@ -35,8 +35,11 @@
 ### 📊 Estatísticas
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=z3rdev&show_icons=true&theme=tokyonight&hide_border=true&locale=pt-br" alt="Estatísticas do GitHub">
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=z3rdev&layout=compact&theme=tokyonight&hide_border=true&locale=pt-br" alt="Linguagens mais usadas">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=z3rdev&theme=tokyonight" alt="Detalhes do perfil">
+</p>
+<p align="center">
+  <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=z3rdev&theme=tokyonight" alt="Estatísticas do GitHub">
+  <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=z3rdev&theme=tokyonight" alt="Linguagens mais usadas">
 </p>
 
 ---
