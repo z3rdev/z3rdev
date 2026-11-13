@@ -1,21 +1,21 @@
 <!-- BANNER (muda conforme o tema claro/escuro do visitante) -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1b27,100:7aa2f7&height=200&section=header&text=z3ro.dev&fontSize=70&fontColor=c0caf5&fontAlignY=38&desc=dev%20%E2%80%A2%20automa%C3%A7%C3%B5es%20%E2%80%A2%20ferramentas%20para%20empresas&descAlignY=60&descSize=16&animation=fadeIn">
-  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:ffffff,50:dbe4ff,100:7aa2f7&height=200&section=header&text=z3ro.dev&fontSize=70&fontColor=1a1b27&fontAlignY=38&desc=dev%20%E2%80%A2%20automa%C3%A7%C3%B5es%20%E2%80%A2%20ferramentas%20para%20empresas&descAlignY=60&descSize=16&animation=fadeIn">
-  <img width="100%" alt="Banner z3ro.dev" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1b27,100:7aa2f7&height=200&section=header&text=z3ro.dev&fontSize=70&fontColor=c0caf5&fontAlignY=38&animation=fadeIn">
+  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117%2C50:0d1f14%2C100:22c55e&height=200&section=header&text=z3ro.dev&fontSize=70&fontColor=e6ffe9&fontAlignY=38&desc=dev%20%E2%80%A2%20automa%C3%A7%C3%B5es%20%E2%80%A2%20ferramentas%20para%20empresas&descAlignY=60&descSize=16&animation=fadeIn">
+  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:ffffff%2C50:dcfce7%2C100:22c55e&height=200&section=header&text=z3ro.dev&fontSize=70&fontColor=0d1f14&fontAlignY=38&desc=dev%20%E2%80%A2%20automa%C3%A7%C3%B5es%20%E2%80%A2%20ferramentas%20para%20empresas&descAlignY=60&descSize=16&animation=fadeIn">
+  <img width="100%" alt="Banner z3ro.dev" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:0d1f14,100:22c55e&height=200&section=header&text=z3ro.dev&fontSize=70&fontColor=e6ffe9&fontAlignY=38&animation=fadeIn">
 </picture>
 
 <!-- TEXTO DIGITANDO -->
 <p align="center">
   <a href="https://z3ro.dev">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=7AA2F7&center=true&vCenter=true&width=600&lines=Ol%C3%A1%2C+eu+sou+o+z3ro;Crio+ferramentas+que+empresas+usam+de+verdade;NF-e%2C+DANFE%2C+ordens+de+servi%C3%A7o+e+automa%C3%A7%C3%B5es;Home+office%2C+caf%C3%A9+e+c%C3%B3digo" alt="Texto digitando"/>
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=22C55E&center=true&vCenter=true&width=600&lines=Ol%C3%A1%2C+eu+sou+o+z3ro;Crio+ferramentas+que+empresas+usam+de+verdade;NF-e%2C+DANFE%2C+ordens+de+servi%C3%A7o+e+automa%C3%A7%C3%B5es;Home+office%2C+caf%C3%A9+e+c%C3%B3digo" alt="Texto digitando"/>
   </a>
 </p>
 
 <p align="center">
-  <a href="https://z3ro.dev"><img src="https://img.shields.io/badge/z3ro.dev-1a1b27?style=for-the-badge&logo=googlechrome&logoColor=7aa2f7" alt="Site"></a>
-  <img src="https://komarev.com/ghpvc/?username=z3rdev&label=visitas&color=7aa2f7&style=for-the-badge" alt="Visitas no perfil">
-  <a href="https://github.com/z3rdev?tab=followers"><img src="https://img.shields.io/github/followers/z3rdev?label=seguidores&style=for-the-badge&logo=github&color=1a1b27&logoColor=7aa2f7&labelColor=1a1b27" alt="Seguidores"></a>
+  <a href="https://z3ro.dev"><img src="https://img.shields.io/badge/z3ro.dev-0d1f14?style=for-the-badge&logo=googlechrome&logoColor=22c55e" alt="Site"></a>
+  <img src="https://komarev.com/ghpvc/?username=z3rdev&label=visitas&color=22c55e&style=for-the-badge" alt="Visitas no perfil">
+  <a href="https://github.com/z3rdev?tab=followers"><img src="https://img.shields.io/github/followers/z3rdev?label=seguidores&style=for-the-badge&logo=github&color=0d1f14&logoColor=22c55e&labelColor=0d1f14" alt="Seguidores"></a>
 </p>
 
 ---
@@ -38,8 +38,8 @@ const z3ro = {
 <p align="center">
   <a href="https://skillicons.dev">
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=js,ts,react,html,css,nodejs,git,github,linux&theme=dark&perline=9">
-      <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=js,ts,react,html,css,nodejs,git,github,linux&theme=light&perline=9">
+      <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=js%2Cts%2Creact%2Chtml%2Ccss%2Cnodejs%2Cgit%2Cgithub%2Clinux&theme=dark&perline=9">
+      <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=js%2Cts%2Creact%2Chtml%2Ccss%2Cnodejs%2Cgit%2Cgithub%2Clinux&theme=light&perline=9">
       <img alt="Tecnologias" src="https://skillicons.dev/icons?i=js,ts,react,html,css,nodejs,git,github,linux&theme=dark&perline=9">
     </picture>
   </a>
@@ -71,7 +71,7 @@ const z3ro = {
     <td width="50%" valign="top">
       <h3><a href="https://z3ro.dev">z3ro.dev</a></h3>
       <p>Meu site, com projetos e contato.</p>
-      <img src="https://img.shields.io/badge/site-online-7aa2f7?style=flat-square&logo=googlechrome&logoColor=white" alt="Site">
+      <img src="https://img.shields.io/badge/site-online-22c55e?style=flat-square&logo=googlechrome&logoColor=white" alt="Site">
     </td>
   </tr>
 </table>
@@ -94,27 +94,11 @@ const z3ro = {
 </details>
 
 <details>
-<summary><b><code>$ ./stats --show</code></b></summary>
+<summary><b><code>$ ./metrics --full</code></b></summary>
 <br>
 
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=z3rdev&theme=tokyonight">
-    <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=z3rdev&theme=default">
-    <img alt="Detalhes do perfil" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=z3rdev&theme=tokyonight">
-  </picture>
-</p>
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=z3rdev&theme=tokyonight">
-    <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=z3rdev&theme=default">
-    <img height="180" alt="Estatísticas" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=z3rdev&theme=tokyonight">
-  </picture>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=z3rdev&theme=tokyonight">
-    <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=z3rdev&theme=default">
-    <img height="180" alt="Linguagens" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=z3rdev&theme=tokyonight">
-  </picture>
+  <img src="./github-metrics.svg" alt="Métricas do GitHub de z3rdev">
 </p>
 
 </details>
@@ -124,7 +108,7 @@ const z3ro = {
 <br>
 
 <p align="center">
-  <a href="https://z3ro.dev"><img src="https://img.shields.io/badge/Site-z3ro.dev-7aa2f7?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Site"></a>
+  <a href="https://z3ro.dev"><img src="https://img.shields.io/badge/Site-z3ro.dev-22c55e?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Site"></a>
   <a href="https://github.com/z3rdev"><img src="https://img.shields.io/badge/GitHub-z3rdev-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
 </p>
 <p align="center"><b>Tem um projeto em mente?</b> Me chama no site.</p>
@@ -145,7 +129,7 @@ const z3ro = {
 
 <!-- RODAPÉ -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:7aa2f7,50:1a1b27,100:0d1117&height=120&section=footer">
-  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:7aa2f7,50:dbe4ff,100:ffffff&height=120&section=footer">
-  <img width="100%" alt="Rodapé" src="https://capsule-render.vercel.app/api?type=waving&color=0:7aa2f7,50:1a1b27,100:0d1117&height=120&section=footer">
+  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:22c55e%2C50:0d1f14%2C100:0d1117&height=120&section=footer">
+  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:22c55e%2C50:dcfce7%2C100:ffffff&height=120&section=footer">
+  <img width="100%" alt="Rodapé" src="https://capsule-render.vercel.app/api?type=waving&color=0:22c55e,50:0d1f14,100:0d1117&height=120&section=footer">
 </picture>
